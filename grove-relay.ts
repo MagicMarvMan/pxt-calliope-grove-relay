@@ -7,7 +7,7 @@
 
 //% weight=2 color=#1174EE block="Grove Relay"
 //% parts="grove_relay"
-namespace grove_mpr121 {
+namespace grove_relay {
 
     //% weight=210
     //% blockId=grove_relay_on block="Relay on"
