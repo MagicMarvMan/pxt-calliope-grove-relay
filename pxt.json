@@ -1,0 +1,17 @@
+{
+    "name": "pxt-calliope-grove-relay",
+    "version": "0.0.1",
+    "description": "Grove Relay",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+      "grove-relay.ts"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MagicMarvMan/pxt-calliope-grove-relay.git"
+    },
+    "public": true
+}
